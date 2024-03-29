@@ -1,0 +1,84 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    text-align: center;
+    background-color: #f2f2f2;
+    overflow: hidden;
+
+}
+.nav-menu {
+    overflow: hidden;
+    background-color: #d4df38;
+}
+
+.nav-menu .logo-area {  
+    float: left;
+    width: 20%;
+    text-align: center;
+}
+.nav-menu .logo-area img {
+    padding-top: 25px;
+    padding-left: 20px;
+    width: 200px;
+    height: auto;    
+}
+.nav-menu .info {
+    float: left;
+    width: 80%;
+    color: #333334;
+}
+
+.container {
+    max-width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.h-area {
+    text-align: center;
+    margin-bottom: 70px;
+}
+
+.question {
+    margin-bottom: 20px;
+}
+
+.options label {
+    display: inline-block;
+    margin-right: 10px;
+}
+
+.sem label {
+    margin-right: 10px;
+}
+
+.sem input {
+    margin-right: 15px;
+}
+
+.options input[type="radio"] {
+    margin-right: 5px;
+}
+
+.submit-btn {
+    margin-top: 20px;
+}
+
+ol {
+    padding: 0;
+}
+
+.sub-heading {
+    background-color: #d4df38;
+    color: #464648;
+    padding: 5px;
+}
+
+.bottom-area {
+    text-align: center;
+    margin-top: 50px;
+}
